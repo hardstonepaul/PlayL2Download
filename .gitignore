@@ -1,0 +1,13 @@
+# Personal data - never commit (this repo is public)
+Library.xml
+*.docx
+
+# Generated output
+chunks/
+songs_list.txt
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/

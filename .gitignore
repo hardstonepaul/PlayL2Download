@@ -3,6 +3,7 @@ Library.xml
 *.docx
 
 # Generated output
+output/
 chunks/
 songs_list.txt
 *.csv
